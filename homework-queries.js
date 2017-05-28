@@ -1,3 +1,5 @@
+db.version() //3.4.4
+
 // Creating and swithing to 'binarySample' database:
 use binarySample
 
